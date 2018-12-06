@@ -1,0 +1,8 @@
+name: Caek
+main: me.syntaxable.testplugin.Main
+version: 1.0
+description: this gives you cake xd
+           
+commands:
+  cake:
+    description: get a cake!
